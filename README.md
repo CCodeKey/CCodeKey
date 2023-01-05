@@ -10,7 +10,7 @@ Também sou aluno do Instituto Federal da Paraíba (https://www.ifpb.edu.br).
 
 * 🌍  Eu moro na Paraíba - BR
 * ✉️  Pode contactar-me em ( newcodiguin@gmail.com )
-* 🚀  Atualmente eu faço parte da equipe de TI do Intituto Federal ([ LaISER ])(https://www.instagram.com/laiserifpb/)
+* 🚀  Atualmente eu faço parte da equipe de TI do Intituto Federal ( [LaISER] )(https://www.instagram.com/laiserifpb/)
 * 🧠  Atualmente estou entrando em contato com a linguagem Kotlin, e trabalhando em sistemas com Java
 * 🤝  Estou aberto a colaboraração em projetos !
 * ⚡  Eu amo tocar Bateria, e cuidar de cachorros
