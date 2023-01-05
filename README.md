@@ -4,7 +4,7 @@ Olá 👋 meu nome é Gabriel codinome Code Key
 Programador e Tecnico em Redes
 -----------------------------
 
-Adoro Programação tão quanto como café, neu designo é o desenvolvimento de softwares, invasões e busca por vulnerabilidades tendo como base Pentest, e manutenção e oraganização de Redes. Meu foco principal é back-end, entre tanto, sempre estou a procura de melhorar a minha performasse de Programação. 
+  Adoro Programação tão quanto como café, neu designo é o desenvolvimento de softwares, invasões e busca por vulnerabilidades tendo como base Pentest, e manutenção e oraganização de Redes. Meu foco principal é back-end, entre tanto, sempre estou a procura de melhorar a minha performasse de Programação. 
 
 Também sou aluno do Instituto Federal da Paraíba (https://www.ifpb.edu.br).
 
