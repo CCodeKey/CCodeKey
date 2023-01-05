@@ -1,7 +1,7 @@
 # Olá 👋 meu nome é Gabriel codinome Code Key
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/CCodeKey)](https://github.com/CCodeKey)
-[![Linkedin Badge]([https://](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-de-freitas-tertuliano-35751b1ba))]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-de-freitas-tertuliano-35751b1ba)](https://www.linkedin.com/in/gabriel-de-freitas-tertuliano-35751b1ba)
 ==========================
 
 Programador e Técnico em Redes
