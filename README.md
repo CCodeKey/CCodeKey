@@ -1,12 +1,12 @@
-Hi 👋 My name is Code Key
+Olá 👋 meu nome é Gabriel codinome Code Key
 ==========================
 
-Full Stack Software Developer
+Programador e Tecnico em Redes
 -----------------------------
 
-I'm a 19 years old developer and hacking since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
+Adoro Programação tão quanto como café, neu designo é o desenvolvimento de softwares, invasões e busca por vulnerabilidades tendo como base Pentest, e manutenção e oraganização de Redes. Meu foco principal é back-end, entre tanto, sempre estou a procura de melhorar a minha performasse de Programação. 
 
-I am also a student at [42 | Rio](https://42.rio/), a Software Engineering school that have [47 campus in 26 countries](https://www.42network.org/42-schools/).
+Também sou aluno do Instituto Federal da Paraíba (https://www.ifpb.edu.br).
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
 * ✉️  You can contact me at [guilhermomasid@gmail.com](mailto:guilhermomasid@gmail.com)
