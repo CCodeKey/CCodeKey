@@ -27,8 +27,8 @@ src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-th
 <a href="https://python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.oracle.com/br/" target="_blank" rel="noreferrer"><img src="https://simpleicons.org/icons/amazondynamodb.svg" width="36" height="36" alt="SQL" /></a>
-<a href="https://www.oracle.com/br/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-<a href="https://www.oracle.com/br/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/portugol-colored.svg" width="36" height="36" alt="Portugol" /></a>
+<a href"https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
+<a href="https://www.oracle.com/br/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shell-colored.svg" width="36" height="36" alt="Shell" /></a>
 </p>
 
 ### Socials
