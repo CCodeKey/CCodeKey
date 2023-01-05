@@ -4,15 +4,15 @@ Olá 👋 meu nome é Gabriel codinome Code Key
 Programador e Tecnico em Redes
 -----------------------------
 
-  Adoro Programação tão quanto como café, neu designo é o desenvolvimento de softwares, invasões e busca por vulnerabilidades tendo como base Pentest, e manutenção e oraganização de Redes. Meu foco principal é back-end, entre tanto, sempre estou a procura de melhorar a minha performasse de Programação. 
+  Adoro programação tão quanto como café, meu desígno é o desenvolvimento de softwares, invasões e busca por vulnerabilidades tendo como base Pentest, e manutenção e organização de Redes. Meu foco principal é back-end, entre tanto, sempre estou a procura de melhorar a minha performance de Programação. 
 
 Também sou aluno do Instituto Federal da Paraíba (https://www.ifpb.edu.br).
 
 * 🌍  Eu moro na Paraíba - BR
 * ✉️  Pode contactar-me em ( newcodiguin@gmail.com )
-* 🚀  Atualmente eu faço parte da equipe de TI do Intituto Federal [( LaISER )](https://www.instagram.com/laiserifpb/)
+* 🚀  Atualmente eu faço parte da equipe de TI do Instituto Federal [( LaISER )](https://www.instagram.com/laiserifpb/)
 * 🧠  Atualmente estou entrando em contato com a linguagem Kotlin, e trabalhando em sistemas com Java
-* 🤝  Estou aberto a colaboraração em projetos !
+* 🤝  Estou aberto à colaboração em projetos !
 * ⚡  Eu amo tocar Bateria, e cuidar de cachorros
 
 <a href="https://www.github.com/CCodeKey" target="_blank" rel="noreferrer"><img
