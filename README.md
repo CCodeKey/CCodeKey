@@ -37,9 +37,9 @@ src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-th
 <a href="https://www.github.com/CCodeKey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/gabriel-de-freitas-tertuliano-35751b1ba" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
+### Distintivos
 
-<b>My GitHub Stats</b>
+<b>Minhas estatísticas do GitHub</b>
 
 <a href="http://www.github.com/CCodeKey"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=CCodeKey&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="Estatísticas do GitHub de Code Key" /></a>
 
