@@ -1,7 +1,7 @@
 Olá 👋 meu nome é Gabriel codinome Code Key
 ==========================
 
-Programador e Tecnico em Redes
+Programador e Técnico em Redes
 -----------------------------
 
   Adoro programação tão quanto como café, meu desígno é o desenvolvimento de softwares, invasões e busca por vulnerabilidades tendo como base Pentest, e manutenção e organização de Redes. Meu foco principal é back-end, entre tanto, sempre estou a procura de melhorar a minha performance de Programação. 
