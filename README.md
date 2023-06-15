@@ -32,7 +32,7 @@ src="https://img.shields.io/github/followers/CCodeKey?logo=github&style=for-the-
 <a href="[https://www.oracle.com/br/](https://www.devmedia.com.br/introducao-ao-shell-script-no-linux/25778)" target="_blank" rel="noreferrer"><img src="https://simpleicons.org/icons/powershell.svg" width="36" height="36" alt="Shell" /></a>
 <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<img align="center" alt="Spring" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="Botton" alt="Spring" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 </p>
 
 ### Redes Sociais
