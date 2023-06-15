@@ -33,10 +33,10 @@ src="https://img.shields.io/github/followers/CCodeKey?logo=github&style=for-the-
 <a href="[https://www.oracle.com/br/](https://www.devmedia.com.br/introducao-ao-shell-script-no-linux/25778)" target="_blank" rel="noreferrer"><img src="https://simpleicons.org/icons/powershell.svg" width="36" height="36" alt="Shell" /></a>
 <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<img align="center" alt="MySQL" height="50" width="60" src="https://simpleicons.org/icons/mysql.svg" />
-<img align="center" alt="VScode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="center" alt="Android Studio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-<img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
+<img align="Botton" alt="MySQL" height="50" width="60" src="https://simpleicons.org/icons/mysql.svg" />
+<img align="Botton" alt="VScode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="Botton" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
+<img align="Botton" alt="Android Studio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 </p>
 
 ### Redes Sociais
