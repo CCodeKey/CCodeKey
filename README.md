@@ -25,6 +25,7 @@ src="https://img.shields.io/github/followers/CCodeKey?logo=github&style=for-the-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<img align="Botton" alt="Spring" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.oracle.com/br/" target="_blank" rel="noreferrer"><img src="https://simpleicons.org/icons/amazondynamodb.svg" width="36" height="36" alt="SQL" /></a>
@@ -32,7 +33,7 @@ src="https://img.shields.io/github/followers/CCodeKey?logo=github&style=for-the-
 <a href="[https://www.oracle.com/br/](https://www.devmedia.com.br/introducao-ao-shell-script-no-linux/25778)" target="_blank" rel="noreferrer"><img src="https://simpleicons.org/icons/powershell.svg" width="36" height="36" alt="Shell" /></a>
 <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<img align="Botton" alt="Spring" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+
 </p>
 
 ### Redes Sociais
