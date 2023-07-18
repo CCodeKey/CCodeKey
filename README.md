@@ -7,7 +7,7 @@
 Programador e Técnico em Redes
 -----------------------------
 
-</p>  Sou apaixonado por programação, assim como adoro tomar café. Minha trajetória profissional é dedicada ao desenvolvimento de softwares, a realização de testes de invasão e busca por vulnerabilidades com ênfase em Pentest, além da manutenção e organização de redes. Tenho como foco principal o back-end, porém, estou sempre em busca de aprimorar minha performance em programação para alcançar novos desafios e conquistas.
+<p>  Sou apaixonado por programação, assim como adoro tomar café. Minha trajetória profissional é dedicada ao desenvolvimento de softwares, a realização de testes de invasão e busca por vulnerabilidades com ênfase em Pentest, além da manutenção e organização de redes. Tenho como foco principal o back-end, porém, estou sempre em busca de aprimorar minha performance em programação para alcançar novos desafios e conquistas.
 
 Também sou estagiário do Instituto Federal da Paraíba (https://www.ifpb.edu.br).
 
