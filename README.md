@@ -7,7 +7,7 @@
 Programador e Técnico em Redes
 -----------------------------
 
-  Adoro programação tão quanto como café, meu desígno é o desenvolvimento de softwares, invasões e busca por vulnerabilidades tendo como base Pentest, e manutenção e organização de Redes. Meu foco principal é back-end, entre tanto, sempre estou a procura de melhorar a minha performance de Programação. 
+  Adoro programação tão quanto como tomar café, meu desígno é o desenvolvimento de softwares, invasões e busca por vulnerabilidades tendo como base Pentest, e manutenção e organização de Redes. Meu foco principal é back-end, entretanto, sempre estou a procura de melhorar a minha performance de Programação. 
 
 Também sou aluno do Instituto Federal da Paraíba (https://www.ifpb.edu.br).
 
