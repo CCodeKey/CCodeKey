@@ -7,9 +7,9 @@
 Programador e Técnico em Redes
 -----------------------------
 
-  Adoro programação tão quanto como tomar café, meu desígno é o desenvolvimento de softwares, invasões e busca por vulnerabilidades tendo como base Pentest, e manutenção e organização de Redes. Meu foco principal é back-end, entretanto, sempre estou a procura de melhorar a minha performance de Programação. 
+  Sou apaixonado por programação, assim como adoro tomar café. Minha trajetória profissional é dedicada ao desenvolvimento de softwares, a realização de testes de invasão e busca por vulnerabilidades com ênfase em Pentest, além da manutenção e organização de redes. Tenho como foco principal o back-end, porém, estou sempre em busca de aprimorar minha performance em programação para alcançar novos desafios e conquistas.
 
-Também sou aluno do Instituto Federal da Paraíba (https://www.ifpb.edu.br).
+Também sou estagiário do Instituto Federal da Paraíba (https://www.ifpb.edu.br).
 
 * 🌍  Eu moro na Paraíba - BR
 * ✉️  Pode contactar-me em ( newcodiguin@gmail.com )
