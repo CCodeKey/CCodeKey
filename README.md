@@ -17,7 +17,7 @@
 * 🪐  Estou aberto à colaboração em projetos!
 * ⚡  Amo tocar Bateria
 
-Desenvolver é construir soluções, pentestar é quebrá-las. O segredo do sucesso? Fazer as duas coisas com um café na mão!
+Desenvolver é construir soluções, pentest é quebrá-las. O segredo do sucesso? Fazer as duas coisas com um café na mão!
 
 ## Linguagens e Ferramentas
 
