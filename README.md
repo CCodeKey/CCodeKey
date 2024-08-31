@@ -15,7 +15,7 @@
 * 📚  Análise e Desenvolvimento de Sistemas - IFPB
 * 🚀  Egresso do [LaISER](https://www.instagram.com/laiserifpb/) - IFPB
 * 🪐  Estou aberto à colaboração em projetos!
-* ⚡  Eu amo tocar Bateria
+* ⚡  Amo tocar Bateria
 
 ## Linguagens e Ferramentas
 
