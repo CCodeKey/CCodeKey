@@ -9,20 +9,18 @@
 </div>
 
 ## Sobre mim
-* 💻 Desenvolvedor e Pentester
-* 🌍  Eu moro no Brasil
+* 💻  Desenvolvedor e Pentester
+* 🌎  Eu moro no Brasil
 * 📗  Técnico em Informática - IFPB
 * 📚  Análise e Desenvolvimento de Sistemas - IFPB
 * 🚀  Egresso do [LaISER](https://www.instagram.com/laiserifpb/) - IFPB
-* 🤝  Estou aberto à colaboração em projetos!
+* 🪐  Estou aberto à colaboração em projetos!
 * ⚡  Eu amo tocar Bateria
-
-Sou apaixonado por programação, assim como adoro tomar café. Minha trajetória profissional é dedicada ao desenvolvimento de softwares, a realização de testes de invasão e busca por vulnerabilidades com ênfase em Pentest, além da manutenção e organização de redes. Tenho como foco principal o back-end, porém, estou sempre em busca de aprimorar minha performance em programação para alcançar novos desafios e conquistas.
 
 ## Linguagens e Ferramentas
 
 <p align="center" id="linguagens">
-   <img src="https://skillicons.dev/icons?i=java,spring,python,html,androidstudio,postgres,vscode,mysql,kali" />
+   <img src="https://skillicons.dev/icons?i=java,spring,python,html,androidstudio,postgres,vscode,mysql,kali,docker" />
 </p>
 
 ## Estatísticas e afins
