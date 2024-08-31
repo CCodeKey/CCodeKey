@@ -1,4 +1,4 @@
-# Olá 👋 meu nome é Gabriel codinome Code Key
+# Olá me chamam de Code Key
 
 <div id="redes-sociais">
   <a href="https://www.instagram.com/codekey.py/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
