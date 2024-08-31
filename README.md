@@ -13,7 +13,7 @@
 * 🌍  Eu moro no Brasil
 * 📗  Técnico em Informática - IFPB
 * 📚  Análise e Desenvolvimento de Sistemas - IFPB
-* 🚀  Sou estagiário da equipe de TI do [LaISER](https://www.instagram.com/laiserifpb/) no Instituto Federal da Paraíba
+* 🚀  Egresso do [LaISER](https://www.instagram.com/laiserifpb/) - IFPB
 * 🤝  Estou aberto à colaboração em projetos!
 * ⚡  Eu amo tocar Bateria
 
