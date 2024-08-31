@@ -18,7 +18,7 @@ Sou apaixonado por programação, assim como adoro tomar café. Minha trajetóri
 ## Linguagens e Ferramentas
 
 <p align="center" id="linguagens">
-   <img src="https://skillicons.dev/icons?i=java,python,html,spring,androidstudio,mysql,vscode,postgres,kali" />
+   <img src="https://skillicons.dev/icons?i=java,spring,python,html,androidstudio,postgres,vscode,mysql,kali" />
 </p>
 
 ## Estatísticas e afins
