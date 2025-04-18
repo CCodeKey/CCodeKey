@@ -9,7 +9,7 @@
 </div>
 
 ## Sobre mim
-* 💻  Desenvolvedor e Pentester
+* 💻  Desenvolvedor e entusiasta de Ethical Hacking
 * 🌎  Eu moro no Brasil
 * 📗  Técnico em Informática - IFPB
 * 📚  Análise e Desenvolvimento de Sistemas - IFPB
@@ -22,7 +22,7 @@ Desenvolver é construir soluções, pentest é quebrá-las. O segredo do sucess
 ## Linguagens e Ferramentas
 
 <p align="center" id="linguagens">
-   <img src="https://skillicons.dev/icons?i=java,spring,python,angular,androidstudio,docker,postgres,vscode,django,kali,godot" />
+   <img src="https://skillicons.dev/icons?i=java,spring,python,flutter,androidstudio,docker,postgres,vscode,django,kali,godot" />
 </p>
 
 ## Estatísticas e afins
