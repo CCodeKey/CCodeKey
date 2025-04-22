@@ -25,6 +25,18 @@ Desenvolver é construir soluções, pentest é quebrá-las. O segredo do sucess
    <img src="https://skillicons.dev/icons?i=java,spring,python,flutter,androidstudio,docker,postgres,vscode,django,kali,godot" />
 </p>
 
+## Linguagens
+
+<p align="center" id="linguagens">
+   <img src="https://skillicons.dev/icons?i=java,python,dart,sql,typescript,bash" />
+</p>
+
+## Frameworks
+
+<p align="center" id="linguagens">
+   <img src="https://skillicons.dev/icons?i=spring,flutter,docker,postgres,django,kali" />
+</p>
+
 ## Estatísticas e afins
 
 <div>
