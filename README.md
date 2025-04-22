@@ -19,12 +19,6 @@
 
 Desenvolver é construir soluções, pentest é quebrá-las. O segredo do sucesso? Fazer as duas coisas com um café na mão!
 
-## Linguagens e Ferramentas
-
-<p align="center" id="linguagens">
-   <img src="https://skillicons.dev/icons?i=java,spring,python,flutter,androidstudio,docker,postgres,vscode,django,kali,godot" />
-</p>
-
 ## Linguagens
 
 <p align="center" id="linguagens">
