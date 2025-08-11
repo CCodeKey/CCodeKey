@@ -1,4 +1,5 @@
 # Fala dev!
+Você > Café ☕ (E olha que eu amo café!)
 
 <div id="redes-sociais">
   <a href="https://www.instagram.com/codekey.py/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -15,7 +16,7 @@
 * 📚  Análise e Desenvolvimento de Sistemas - IFPB
 * 🚀  Egresso do [LaISER](https://www.instagram.com/laiserifpb/) - IFPB
 * 🪐  Estou aberto à colaboração em projetos!
-* ⚡  Amo tocar Bateria
+* ⚡  Amo tocar Bateria e Contra-baixo
 
 Desenvolver é construir soluções, pentest é quebrá-las. O segredo do sucesso? Fazer as duas coisas com um café na mão!
 
