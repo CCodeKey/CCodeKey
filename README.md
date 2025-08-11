@@ -19,7 +19,7 @@
 
 Desenvolver é construir soluções, pentest é quebrá-las. O segredo do sucesso? Fazer as duas coisas com um café na mão!
 
-## Minha Stack
+## Minha principal stack
 
 <p align="center" id="linguagens">
    <img src="https://skillicons.dev/icons?i=java,python,javascript,dart,spring,flutter,react,docker" />
