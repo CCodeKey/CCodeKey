@@ -22,13 +22,13 @@ Desenvolver é construir soluções, pentest é quebrá-las. O segredo do sucess
 ## Linguagens
 
 <p align="center" id="linguagens">
-   <img src="https://skillicons.dev/icons?i=java,python,dart,typescript,bash" />
+   <img src="https://skillicons.dev/icons?i=java,python,dart,javascript" />
 </p>
 
 ## Frameworks
 
 <p align="center" id="linguagens">
-   <img src="https://skillicons.dev/icons?i=spring,flutter,angular,docker,postgresql,django" />
+   <img src="https://skillicons.dev/icons?i=spring,flutter,react,docker" />
 </p>
 
 ## Estatísticas e afins
