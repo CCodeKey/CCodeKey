@@ -22,7 +22,7 @@ Desenvolver é construir soluções, pentest é quebrá-las. O segredo do sucess
 ## Minha Stack
 
 <p align="center" id="linguagens">
-   <img src="https://skillicons.dev/icons?i=java,python,javascript,dart, spring,flutter,react,docker" />
+   <img src="https://skillicons.dev/icons?i=java,python,javascript,dart,spring,flutter,react,docker" />
 </p>
 
 ## Estatísticas e afins
