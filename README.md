@@ -17,6 +17,7 @@ Você > Café ☕ (E olha que eu amo café!)
 * 🚀  Egresso do [LaISER](https://www.instagram.com/laiserifpb/) - IFPB
 * 🪐  Estou aberto à colaboração em projetos!
 * ⚡  Amo tocar Bateria e Contra-baixo
+* 📜  Portifólio: [link](https://portfolio-codekey.netlify.app/) 
 
 Desenvolver é construir soluções, pentest é quebrá-las. O segredo do sucesso? Fazer as duas coisas com um café na mão!
 
