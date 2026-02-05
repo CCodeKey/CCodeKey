@@ -10,7 +10,7 @@ Você > Café ☕ (E olha que eu amo café!)
 </div>
 
 ## Sobre mim
-* 💻  Desenvolvedor e entusiasta de Ethical Hacking
+* 💻  Desenvolvedor back-end e entusiasta de Ethical Hacking
 * 🌎  Eu moro no Brasil
 * 📗  Técnico em Informática - IFPB
 * 📚  Análise e Desenvolvimento de Sistemas - IFPB
