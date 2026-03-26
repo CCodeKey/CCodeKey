@@ -7,6 +7,7 @@ Você > Café ☕ (E olha que eu amo café!)
   <a href="https://discord.gg/1048989444809691278" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/1048989444809691278" target="_blank">
   </a>
+  Facebook 	![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat&logo=facebook&logoColor=white)
 </div>
 
 ## Sobre mim
