@@ -9,7 +9,7 @@ Você > Café ☕ (E olha que eu amo café!)
     <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/1048989444809691278" target="_blank">
   </a>
   <a href="mailto:gabrielft624@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Contato%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://portfolio-codekey.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio">
