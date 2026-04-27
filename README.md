@@ -2,19 +2,18 @@
 Você > Café ☕ (E olha que eu amo café!)
 
 <div id="redes-sociais">
-  <a href="https://www.linkedin.com/in/gabriel-tertuliano-/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-tertuliano-/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://discord.gg/1048989444809691278" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/1048989444809691278" target="_blank">
+  <a href="https://discord.gg/1048989444809691278" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="mailto:gabrielft624@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:gabrielft624@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://portfolio-codekey.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio">
   </a>
- 
 </div>
 
 ## Sobre mim
